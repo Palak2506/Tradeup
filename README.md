@@ -1,0 +1,1 @@
+Tradeup:- Tried to Built a trading project taking inspirations from different website.cd
